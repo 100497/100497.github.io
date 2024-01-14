@@ -16,21 +16,24 @@
   <meta name="author" content="小甜饼">
   <meta name="keywords" content="">
   
-    <meta property="og:type" content="article">
-<meta property="og:title" content="test2">
-<meta property="og:url" content="http://example.com/2024/01/14/test2/index.html">
+    <meta name="description" content="Git报错： Failed to connect to github.com port 443 解决方案">
+<meta property="og:type" content="article">
+<meta property="og:title" content="github port 443 解决方案">
+<meta property="og:url" content="http://example.com/2024/01/15/443-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/index.html">
 <meta property="og:site_name" content="我吃小甜饼のBlog">
+<meta property="og:description" content="Git报错： Failed to connect to github.com port 443 解决方案">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="http://example.com/img/index_img.jpg">
-<meta property="article:published_time" content="2024-01-14T12:26:33.000Z">
-<meta property="article:modified_time" content="2024-01-14T21:02:48.710Z">
+<meta property="og:image" content="http://example.com/img/archive.jpg">
+<meta property="article:published_time" content="2024-01-14T21:43:40.000Z">
+<meta property="article:modified_time" content="2024-01-14T21:53:48.359Z">
 <meta property="article:author" content="小甜饼">
+<meta property="article:tag" content="github">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://example.com/img/index_img.jpg">
+<meta name="twitter:image" content="http://example.com/img/archive.jpg">
   
   
   
-  <title>test2 - 我吃小甜饼のBlog</title>
+  <title>github port 443 解决方案 - 我吃小甜饼のBlog</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -196,7 +199,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="test2"></span>
+            <span id="subtitle" data-typed-text="github port 443 解决方案"></span>
           
         </div>
 
@@ -212,8 +215,8 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2024-01-14 20:26" pubdate>
-          2024年1月14日 晚上
+        <time datetime="2024-01-15 05:43" pubdate>
+          2024年1月15日 凌晨
         </time>
       </span>
     
@@ -224,7 +227,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          4 字
+          241 字
         
       </span>
     
@@ -235,7 +238,7 @@
         
         
         
-          1 分钟
+          3 分钟
         
       </span>
     
@@ -276,12 +279,12 @@
       <div class="container nopadding-x-md" id="board-ctn">
         <div id="board">
           <article class="post-content mx-auto">
-            <h1 id="seo-header">test2</h1>
+            <h1 id="seo-header">github port 443 解决方案</h1>
             
               <p id="updated-time" class="note note-info" style="display: none">
                 
                   
-                    本文最后更新于 2024-01-15T05:02:48+08:00
+                    本文最后更新于 2024-01-15T05:53:48+08:00
                   
                   
 
@@ -291,15 +294,13 @@
             
               <div class="markdown-body">
                 
-                <img src="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/20230812_211237.jpg" srcset="/img/loading.gif" lazyload alt="" style="width:100%" />  
+                <p>自己有vpn，网页可以打开github。说明命令行在拉取&#x2F;推送代码时并没有使用vpn进行代理</p>
+<h2 id="1-解决办法："><a href="#1-解决办法：" class="headerlink" title="1.解决办法："></a>1.解决办法：</h2><p>配置http代理Windows、Linux、Mac OS 中 git 命令相同：</p>
+<p>配置socks5代理<br>git config –global http.proxy socks5 127.0.0.1:7890<br>git config –global https.proxy socks5 127.0.0.1:7890</p>
+<p>配置http代理<br>git config –global http.proxy 127.0.0.1:7890<br>git config –global https.proxy 127.0.0.1:7890</p>
+<h2 id="2-注意："><a href="#2-注意：" class="headerlink" title="2.注意："></a>2.注意：</h2><p>命令中的主机号（127.0.0.1）是使用的代理的主机号(自己电脑有vpn那么本机可看做访问github的代理主机)，即填入127.0.0.1即可，否则填入代理主机 ip(就是网上找的那个ip)<br>命令中的端口号（7890）为代理软件(代理软件不显示端口的话，就去Windows中的代理服务器设置中查看)或代理主机的监听IP，可以从代理服务器配置中获得，否则填入网上找的那个端口port</p>
+<h2 id="3-查看代理命令"><a href="#3-查看代理命令" class="headerlink" title="3.查看代理命令"></a>3.查看代理命令</h2><p>git config –global –get http.proxy<br>git config –global –get https.proxy</p>
 
-
-<span id="more"></span>
-
-
-<p><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/20230806_213547.jpg" srcset="/img/loading.gif" lazyload></p>
-<hr />
-版权信息
                 
               </div>
             
@@ -307,6 +308,34 @@
             <div>
               <div class="post-metas my-3">
   
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/Hexo/" class="category-chain-item">Hexo</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/github/" class="print-no-link">#github</a>
+      
+    </div>
   
 </div>
 
@@ -316,8 +345,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>test2</div>
-      <div>http://example.com/2024/01/14/test2/</div>
+      <div>github port 443 解决方案</div>
+      <div>http://example.com/2024/01/15/443-解决方案/</div>
     </div>
     <div class="license-meta">
       
@@ -329,7 +358,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>发布于</div>
-          <div>2024年1月14日</div>
+          <div>2024年1月15日</div>
         </div>
       
       
@@ -361,15 +390,15 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2024/01/14/%E4%B9%99%E5%A5%B3%E3%81%AE%E5%89%A3%E3%81%A8%E7%A7%98%E3%82%81%E3%81%94%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88%E6%94%BB%E7%95%A5/" title="乙女の剣と秘めごとコンチェルト 攻略">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">乙女の剣と秘めごとコンチェルト 攻略</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
+                    
+                      <a href="/2024/01/14/%E4%B9%99%E5%A5%B3%E3%81%AE%E5%89%A3%E3%81%A8%E7%A7%98%E3%82%81%E3%81%94%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88%E6%94%BB%E7%95%A5/" title="乙女の剣と秘めごとコンチェルト 攻略">
+                        <span class="hidden-mobile">乙女の剣と秘めごとコンチェルト 攻略</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
                     
                   </article>
                 </div>
@@ -469,12 +498,44 @@
     <div class="footer-inner">
   
     <div class="footer-content">
-       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> #添加网站运行时间 <div> <span id="timeDate">载入天数...</span> <span id="times">载入时分秒...</span> <script src="/js/duration.js"></script> </div> 
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+
     </div>
   
   
   
   
+</div>
+<div>
+  <span id="timeDate">载入天数...</span>
+  <span id="times">载入时分秒...</span>
+  <script>
+  var now = new Date();
+  function createtime(){
+      var grt= new Date("01/01/2024 00:00:00");//此处修改你的建站时间或者网站上线时间
+      now.setTime(now.getTime()+250);
+      days = (now - grt ) / 1000 / 60 / 60 / 24;
+      dnum = Math.floor(days);
+      hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum);
+      hnum = Math.floor(hours);
+      if(String(hnum).length ==1 ){
+          hnum = "0" + hnum;
+      }
+      minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+      mnum = Math.floor(minutes);
+      if(String(mnum).length ==1 ){
+                mnum = "0" + mnum;
+      }
+      seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+      snum = Math.round(seconds);
+      if(String(snum).length ==1 ){
+                snum = "0" + snum;
+      }
+      document.getElementById("timeDate").innerHTML = "🚀 for&nbsp"+dnum+"&nbspdays";  //此次自定义显示内容
+      document.getElementById("times").innerHTML = hnum + "&nbsphr&nbsp" + mnum + "&nbspmin&nbsp" + snum + "&nbspsec";
+  }  //此次自定义显示内容
+  setInterval("createtime()",250);
+  </script>
 </div>
 
   </footer>

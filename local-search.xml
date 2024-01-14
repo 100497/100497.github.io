@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>github port 443 解决方案</title>
+    <link href="/2024/01/15/443-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <url>/2024/01/15/443-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</url>
+    
+    <content type="html"><![CDATA[<p>自己有vpn，网页可以打开github。说明命令行在拉取&#x2F;推送代码时并没有使用vpn进行代理</p><h2 id="1-解决办法："><a href="#1-解决办法：" class="headerlink" title="1.解决办法："></a>1.解决办法：</h2><p>配置http代理Windows、Linux、Mac OS 中 git 命令相同：</p><p>配置socks5代理<br>git config –global http.proxy socks5 127.0.0.1:7890<br>git config –global https.proxy socks5 127.0.0.1:7890</p><p>配置http代理<br>git config –global http.proxy 127.0.0.1:7890<br>git config –global https.proxy 127.0.0.1:7890</p><h2 id="2-注意："><a href="#2-注意：" class="headerlink" title="2.注意："></a>2.注意：</h2><p>命令中的主机号（127.0.0.1）是使用的代理的主机号(自己电脑有vpn那么本机可看做访问github的代理主机)，即填入127.0.0.1即可，否则填入代理主机 ip(就是网上找的那个ip)<br>命令中的端口号（7890）为代理软件(代理软件不显示端口的话，就去Windows中的代理服务器设置中查看)或代理主机的监听IP，可以从代理服务器配置中获得，否则填入网上找的那个端口port</p><h2 id="3-查看代理命令"><a href="#3-查看代理命令" class="headerlink" title="3.查看代理命令"></a>3.查看代理命令</h2><p>git config –global –get http.proxy<br>git config –global –get https.proxy</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Hexo</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>github</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>乙女の剣と秘めごとコンチェルト 攻略</title>
     <link href="/2024/01/14/%E4%B9%99%E5%A5%B3%E3%81%AE%E5%89%A3%E3%81%A8%E7%A7%98%E3%82%81%E3%81%94%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88%E6%94%BB%E7%95%A5/"/>
     <url>/2024/01/14/%E4%B9%99%E5%A5%B3%E3%81%AE%E5%89%A3%E3%81%A8%E7%A7%98%E3%82%81%E3%81%94%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88%E6%94%BB%E7%95%A5/</url>
@@ -25,19 +50,6 @@
       <tag>攻略</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test2</title>
-    <link href="/2024/01/14/test2/"/>
-    <url>/2024/01/14/test2/</url>
-    
-    <content type="html"><![CDATA[<img src="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/20230812_211237.jpg" alt="" style="width:100%" />  <span id="more"></span><p><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/20230806_213547.jpg"></p><hr />版权信息]]></content>
-    
-    
     
   </entry>
   

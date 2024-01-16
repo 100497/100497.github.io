@@ -4,11 +4,61 @@
   
   
   <entry>
+    <title>Chrome浏览器取消置顶的方法</title>
+    <link href="/2723000907/"/>
+    <url>/2723000907/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="chrome浏览器取消置顶的方法"><a class="markdownIt-Anchor" href="#chrome浏览器取消置顶的方法"></a> Chrome浏览器取消置顶的方法</h1><p>Chrome被默认置顶，取消方法为</p><p>在浏览器上按 <code>ALT + Space + C</code>，然后再重开Chrome.</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Chrome</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技巧</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Markdown语法</title>
+    <link href="/1011929149/"/>
+    <url>/1011929149/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><p><a href="https://markdown.com.cn/basic-syntax/">本文参考Markdown 官方教程</a></p><h1 id="1markdown-标题"><a class="markdownIt-Anchor" href="#1markdown-标题"></a> 1.Markdown 标题</h1><p>使用 # 号标记<br />使用 # 号可表示 1-6 级标题，一级标题对应一个 # 号，二级标题对应两个 # 号，以此类推。</p><h1 id="2markdown-段落"><a class="markdownIt-Anchor" href="#2markdown-段落"></a> 2.Markdown 段落</h1><p>Markdown 段落没有特殊的格式，直接编写文字就好，段落的换行是使用两个以上空格加上回车。</p><h1 id="3字体"><a class="markdownIt-Anchor" href="#3字体"></a> 3.字体</h1><p>Markdown 可以使用以下几种字体：<br /><em>斜体文本</em><br /><em>斜体文本</em><br /><strong>粗体文本</strong><br /><strong>粗体文本</strong><br /><em><strong>粗斜体文本</strong></em><br /><em><strong>粗斜体文本</strong></em></p><h1 id="4分隔线"><a class="markdownIt-Anchor" href="#4分隔线"></a> 4.分隔线</h1><p>你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：</p><hr /><hr /><hr /><hr /><hr /><h1 id="5删除线"><a class="markdownIt-Anchor" href="#5删除线"></a> 5.删除线</h1><p>如果段落上的文字要添加删除线，只需要在文字的两端加上两个波浪线 ~~ 即可，实例如下：<br /><s>BAIDU.COM</s></p><h1 id="6markdown-列表"><a class="markdownIt-Anchor" href="#6markdown-列表"></a> 6.Markdown 列表</h1><p>Markdown 支持有序列表和无序列表。</p><ul><li>无序列表使用星号(*)、加号(+)或是减号(-)作为列表标记，这些标记后面要添加一个空格，然后再填写内容</li><li>有序列表使用数字并加上 . 号来表示</li></ul><h1 id="7代码区块"><a class="markdownIt-Anchor" href="#7代码区块"></a> 7.代码区块</h1><ul><li>代码区块使用 4 个空格或者一个制表符（Tab 键）。</li><li>你也可以用 ``` 包裹一段代码，并指定一种语言（也可以不指定）：</li></ul><h1 id="8markdown-链接"><a class="markdownIt-Anchor" href="#8markdown-链接"></a> 8.Markdown 链接</h1><p>链接使用方法如下：</p><p><code>[链接名称](链接地址)</code></p><p>或者</p><p>&lt;链接地址&gt;</p><h1 id="9markdown-图片"><a class="markdownIt-Anchor" href="#9markdown-图片"></a> 9.Markdown 图片</h1><p>Markdown 图片语法格式如下：</p><p><code>![alt 属性文本](图片地址)</code></p><p><code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></p><p>开头一个感叹号 !<br />接着一个方括号，里面放上图片的替代文字<br />接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 ‘title’ 属性的文字。</p><ul><li>Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的 <img> 标签。</li></ul><p><code>&lt;img src=&quot;http://static.runoob.com/images/runoob-logo.png&quot; width=&quot;50%&quot;&gt;</code></p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Markdown</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Markdown</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hexo命令</title>
     <link href="/1204692936/"/>
     <url>/1204692936/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="查看hexo已经安装的三方包命令"><a class="markdownIt-Anchor" href="#查看hexo已经安装的三方包命令"></a> 查看hexo已经安装的三方包命令</h2><p>npm list --depth 0<br />depth 查看已经三方的深度，默认是显示所有，用0只显示最外层</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="1查看hexo已经安装的三方包命令"><a class="markdownIt-Anchor" href="#1查看hexo已经安装的三方包命令"></a> 1.查看hexo已经安装的三方包命令</h2><p><code>npm list --depth 0</code></p><p>depth 查看已经三方的深度，默认是显示所有，用0只显示最外层</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
     
     <categories>
@@ -54,11 +104,11 @@
   
   
   <entry>
-    <title>乙女の剣と秘めごとコンチェルト 攻略</title>
+    <title>乙女の剣と秘めごとコンチェルト(少女与剑的秘密协奏曲) 日文攻略</title>
     <link href="/3912306749/"/>
     <url>/3912306749/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/01.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/01.jpg" alt="" /></a></p><p>PlayDRM認証</p><p>各キャラクリアごとに【EXTRA】⇒【AFTER】に後日談が追加されるので見ておくこと。</p><p><mark>小柴 杏奈</mark></p><p>从【START】开始<br />◆SAVE 01<br />杏奈ちゃん</p><p>杏奈END<br />【EXTRA】⇒【AFTER】杏奈</p><p><mark>天海 依夜</mark></p><p>◆SAVE 01 开始<br />依夜様</p><p>依夜END<br />【EXTRA】⇒【AFTER】依夜</p><p>クレール・メルル</p><p>◆SAVE 01 开始<br />クレール様</p><p>クレールEND<br />【EXTRA】⇒【AFTER】クレール</p><p>椋木 梨理</p><p>◆SAVE 01 开始<br />梨理ちゃん</p><p>梨理END<br />【EXTRA】⇒【AFTER】梨理</p><p>宮守 睦月</p><p>※4人攻略後に<br />◆SAVE 01 开始<br />つーちゃん</p><p>睦月END<br />【EXTRA】⇒【AFTER】SECRET</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/01.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/202401/01.jpg" alt="" /></a></p><h1 id="乙女の剣と秘めごとコンチェルト少女与剑的秘密协奏曲-日文攻略"><a class="markdownIt-Anchor" href="#乙女の剣と秘めごとコンチェルト少女与剑的秘密协奏曲-日文攻略"></a> <strong>乙女の剣と秘めごとコンチェルト(少女与剑的秘密协奏曲) 日文攻略</strong></h1><h2 id="playdrm認証"><a class="markdownIt-Anchor" href="#playdrm認証"></a> PlayDRM認証</h2><p>各キャラクリアごとに【EXTRA】⇒【AFTER】に後日談が追加されるので見ておくこと。</p><h2 id="小柴-杏奈"><a class="markdownIt-Anchor" href="#小柴-杏奈"></a> 小柴 杏奈</h2><p>从【START】开始<br />◆SAVE 01<br />杏奈ちゃん</p><p>杏奈END<br />【EXTRA】⇒【AFTER】杏奈</p><h2 id="天海-依夜"><a class="markdownIt-Anchor" href="#天海-依夜"></a> 天海 依夜</h2><p>◆SAVE 01 开始<br />依夜様</p><p>依夜END<br />【EXTRA】⇒【AFTER】依夜</p><h2 id="クレールメルル"><a class="markdownIt-Anchor" href="#クレールメルル"></a> クレール・メルル</h2><p>◆SAVE 01 开始<br />クレール様</p><p>クレールEND<br />【EXTRA】⇒【AFTER】クレール</p><h2 id="椋木-梨理"><a class="markdownIt-Anchor" href="#椋木-梨理"></a> 椋木 梨理</h2><p>◆SAVE 01 开始<br />梨理ちゃん</p><p>梨理END<br />【EXTRA】⇒【AFTER】梨理</p><h2 id="宮守-睦月"><a class="markdownIt-Anchor" href="#宮守-睦月"></a> 宮守 睦月</h2><p>※4人攻略後に<br />◆SAVE 01 开始<br />つーちゃん</p><p>睦月END<br />【EXTRA】⇒【AFTER】SECRET</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
     
     <categories>

@@ -16,18 +16,17 @@
   <meta name="author" content="小甜饼">
   <meta name="keywords" content="">
   
-    <meta name="description" content="Hexo Fluid 主題使用指南 主頁 Banner 大圖 所有的頁面（含首頁、關於頁、文章頁…等），都有個 banner_img 的屬性，在 Fluid 的 _config.yml 配置檔案內設定。 以首頁為例，請到 _config.yml 檔案內，找到以下程式碼：  #---------------------------   首页  Index Page #----------------">
-<meta property="og:type" content="article">
-<meta property="og:title" content="0011.Hexo Fluid 主題使用指南">
+    <meta property="og:type" content="article">
+<meta property="og:title" content="0011.Hexo Fluid 背景全屏固定">
 <meta property="og:url" content="https://100497.github.io/1025348666/index.html">
 <meta property="og:site_name" content="我吃小甜饼のBlog">
-<meta property="og:description" content="Hexo Fluid 主題使用指南 主頁 Banner 大圖 所有的頁面（含首頁、關於頁、文章頁…等），都有個 banner_img 的屬性，在 Fluid 的 _config.yml 配置檔案內設定。 以首頁為例，請到 _config.yml 檔案內，找到以下程式碼：  #---------------------------   首页  Index Page #----------------">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://100497.github.io/img/article/0011.jpg">
 <meta property="article:published_time" content="2024-01-18T02:42:27.000Z">
-<meta property="article:modified_time" content="2024-01-21T18:17:42.448Z">
+<meta property="article:modified_time" content="2024-01-21T23:34:50.545Z">
 <meta property="article:author" content="小甜饼">
-<meta property="article:tag" content="Hexo Fluid">
+<meta property="article:tag" content="Hexo">
+<meta property="article:tag" content="Fluid">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://100497.github.io/img/article/0011.jpg">
   
@@ -35,7 +34,7 @@
   
      <!-- 一言 --> <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script> 
   
-  <title>0011.Hexo Fluid 主題使用指南 - 我吃小甜饼のBlog</title>
+  <title>0011.Hexo Fluid 背景全屏固定 - 我吃小甜饼のBlog</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -251,7 +250,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="0011.Hexo Fluid 主題使用指南"></span>
+            <span id="subtitle" data-typed-text="0011.Hexo Fluid 背景全屏固定"></span>
           
         </div>
 
@@ -279,7 +278,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          2.6k 字
+          174 字
         
       </span>
     
@@ -290,7 +289,7 @@
         
         
         
-          22 分钟
+          2 分钟
         
       </span>
     
@@ -331,12 +330,12 @@
       <div class="container nopadding-x-md" id="board-ctn">
         <div id="board">
           <article class="post-content mx-auto">
-            <h1 id="seo-header">0011.Hexo Fluid 主題使用指南</h1>
+            <h1 id="seo-header">0011.Hexo Fluid 背景全屏固定</h1>
             
               <p id="updated-time" class="note note-info" style="display: none">
                 
                   
-                    本文最后更新于 2024-01-22T02:17:42+08:00
+                    本文最后更新于 2024-01-22T07:34:50+08:00
                   
                   
 
@@ -346,229 +345,14 @@
             
               <div class="markdown-body">
                 
-                <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="hexo-fluid-主題使用指南"><a class="markdownIt-Anchor" href="#hexo-fluid-主題使用指南"></a> Hexo Fluid 主題使用指南</h1>
-<p>主頁 Banner 大圖<br />
-所有的頁面（含首頁、關於頁、文章頁…等），都有個 banner_img 的屬性，在 Fluid 的 _config.yml 配置檔案內設定。<br />
-以首頁為例，請到 _config.yml 檔案內，找到以下程式碼：</p>
-<p>#---------------------------</p>
-<h1 id="首页"><a class="markdownIt-Anchor" href="#首页"></a> 首页</h1>
-<h1 id="index-page"><a class="markdownIt-Anchor" href="#index-page"></a> Index Page</h1>
-<p>#---------------------------<br />
-index:<br />
-banner_img: /img/banner.jpg  # 首页 Banner 头图，以下相同<br />
-banner_img_height: 100  # 头图高度，屏幕百分比，available: 0 - 100<br />
-banner 的路徑（banner_img）和高度（banner_img_height）就在這邊設置。</p>
-<p>圖片來源<br />
-建議將圖片放置在 /fluid/source/img/ 目錄底下，對應的路徑填寫為：/img/你的圖片名稱。</p>
-<p>例如<br />
-首頁的圖片是 banner.jpg，圖片應存放在：/fluid/source/img/banner.jpg，<br />
-banner_img 的指定路徑為：/img/banner.jpg。</p>
-<p>同理，其他的頁面也是如此設置，如：文章頁、關於我、分類頁、標籤頁等。</p>
-<p>#---------------------------</p>
-<h1 id="文章頁"><a class="markdownIt-Anchor" href="#文章頁"></a> 文章頁</h1>
-<h1 id="archive-page"><a class="markdownIt-Anchor" href="#archive-page"></a> Archive Page</h1>
-<p>#---------------------------<br />
-archive:<br />
-banner_img: /img/articles.jpg<br />
-banner_img_height: 80  # available: 0 - 100<br />
-#---------------------------</p>
-<h1 id="分類頁"><a class="markdownIt-Anchor" href="#分類頁"></a> 分類頁</h1>
-<h1 id="categories-page"><a class="markdownIt-Anchor" href="#categories-page"></a> Categories Page</h1>
-<p>#---------------------------<br />
-category:<br />
-banner_img: /img/categories.jpg<br />
-banner_img_height: 80  # available: 0 - 100<br />
-一開始筆者會把 public/img 和 Fluid 主題包內的 source/img 混淆，不知道圖片正確應該放置到哪邊？<br />
-官方說建議放到 source/img，但筆者直接把圖片存到 public/img 卻也能正常顯示。<br />
-且放到 source/img 內的圖片，上傳到部落格後，便會發現 public/img 內也同步產生了那張圖片。</p>
-<p>於是筆者查了一下官方的主題配置文檔，官方對 source 的解釋如下：</p>
-<p>source<br />
-原始檔案資料夾，除了模板以外的 Asset，例如 CSS、JavaScript 檔案等，應該放在這個資料夾。檔案或資料夾開頭名稱為 _（底線）或隱藏檔案會被忽略。<br />
-如果檔案可以被渲染的話，會經過處理再儲存到 public 資料夾，否則會直接拷貝到 public 資料夾。</p>
-<p>以上說明筆者理解為：「你存在 source/img 內的圖片，會被直接拷貝到 public/img。」</p>
-<p>於是後來寫文章時，筆者都直接把圖片存在 public/img 內了。雖然不確定這樣存圖片會不會有問題，不過到目前為止都沒有什麼問題產生。（自以為這樣檔案會比較小的設計師…(´・ω・`)</p>
-<p>於是就發生了悲劇<br />
-沒錯，就在剛剛，筆者才剛寫完上面的介紹，發現電腦好當啊！網站怎麼跑得這麼慢！<br />
-就想起了 Hexo 有一個清除快取的功能，很開心的按下去之後，發現整個網站的圖片都消失了！！<br />
-筆者整個 public 資料夾都不見了啊啊啊啊！！！！（崩潰</p>
-<p>不知道是不是因為筆者在開啟 server 的狀態下按了 Hexo clean 的關係，整個 public 都被刪除了。<br />
-嚇得平常不動腦的筆者光速的動起了腦袋，趕快先到 Github 把線上還沒壞掉的檔案下載下來，再自己創建一個 public 資料夾，把載下來的檔案都丟進去，網站圖片才回來了…真是嚇死了(´; ω ;`)</p>
-<p>於是驚魂未定的筆者再查了一些資料，得出了以下結論：</p>
-<p>千萬別在開啟 server 的狀態下按 Hexo clean，Hexo 會把整個 public 資料夾當作已產生的靜態檔案給清除。<br />
-網站的大圖 banner、和主題有關的原始檔案(例如：favicon.png、loading.gif…等），皆須存在 fluid/source/img/ 內。<br />
-文章的 banner、文章內的說明圖等，皆須存在 fluid/source/img/ 內，但也可以存在 blog/source 內，再自己新增一個 img 資料夾，將圖片都歸類進去。文章的 .md 檔案也會在 source/_posts 內。<br />
-public 資料夾僅是上傳到線上後會產生的靜態檔案。<br />
-原來之前筆者都把官方說的 source/img 和主題的 fluid/source/img/ 混淆了！<br />
-直到發生悲劇才知道原來官方指的是最外層的 source 資料夾，該說是因禍得福嗎…？（淚</p>
-<p>部落格標題與 header 選單<br />
-筆者的部落格標題「來點鳥」和首頁的描述「Give me some bird」，皆是在 blog 的 _config.yml 內設置的：</p>
-<h1 id="site"><a class="markdownIt-Anchor" href="#site"></a> Site</h1>
-<p>title: 來點鳥<br />
-subtitle: ‘Give me some bird’<br />
-description: ‘’<br />
-keywords:<br />
-author: GiGi<br />
-language: zh-tw<br />
-timezone: ‘’<br />
-header 選單則是在 Fluid 主題的 _config.yml 內設置：</p>
-<p>#---------------------------</p>
-<h1 id="页头"><a class="markdownIt-Anchor" href="#页头"></a> 页头</h1>
-<h1 id="header"><a class="markdownIt-Anchor" href="#header"></a> Header</h1>
-<p>#---------------------------<br />
-navbar:<br />
-blog_title:  # 导航栏左侧的标题，为空则按 hexo config.title 显示<br />
-menu:  # 可自行增减，若想减去某个入口，可以将值留空，显示文本关联 languages<br />
-home: /<br />
-about: /about/ # 關於<br />
-archive: /archives/ # 文章<br />
-category: /categories/ # 分類<br />
-tag: /tags/ # 標籤<br />
-#links: /links/  # 友链页，把前面#去掉即可展示<br />
-左邊是選單名稱（about），右邊是對應的連結位置（/about/）。<br />
-若需增加選單，直接往下新增再設定對應連結，若需刪除默認選單，直接將對應位置留空即可。</p>
-<p>語言問題<br />
-因為此主題為簡體中文，若想將選單修改為 繁體中文，請到 themes/fluid/languages 內，將「zh-CN.yml」檔案複製一份，重新命名為「zh-tw.yml」，再將裡面所有的簡體中文都修改為繁體中文。<br />
-詳細步驟可以參考筆者之前的文章 如何更換 Hexo 主題，有語言的相關設置。</p>
-<p>以下為筆者修改好的繁體中文檔，不一定要按照原本的簡體中文命名，可以自由更改，再對照上方 header 選單（頁頭）的位置即可：</p>
-<p>search:<br />
-title: 搜尋<br />
-keyword: 關鍵字<br />
-status:<br />
-success: v<br />
-error: x<br />
-postTotal: 共計 %d 篇文章<br />
-paginator:<br />
-pre: 上一頁<br />
-next: 下一頁<br />
-post:<br />
-toc: 目錄<br />
-home:<br />
-title: 首頁<br />
-archive:<br />
-title: 文章<br />
-subtitle: 文章<br />
-tag:<br />
-title: 標籤<br />
-subtitle: 標籤<br />
-category:<br />
-title: 分類<br />
-subtitle: 分類<br />
-about:<br />
-title: 關於<br />
-subtitle: 關於<br />
-page404:<br />
-title: 頁面不見啦！<br />
-subtitle: 頁面不見啦！<br />
-links:<br />
-title: 友情連結<br />
-subtitle: 友情連結<br />
-關於頁<br />
-關於頁的 banner 和作者頭像、作者名稱、作者下方描述、相關連結，皆在 Fluid 主題的 _config.yml 內設置：</p>
-<p>#---------------------------</p>
-<h1 id="关于页"><a class="markdownIt-Anchor" href="#关于页"></a> 关于页</h1>
-<h1 id="about-page"><a class="markdownIt-Anchor" href="#about-page"></a> About Page</h1>
-<p>#---------------------------<br />
-about:  # 以下仅为页面顶部的基本信息，更多内容请在 ./pages/about.md 中编辑，支持 markdown 和 HTML<br />
-md_path: ./pages/about.md  # 关于页文档的相对路径，可以按相对文档设置主题之外的路径，从而避免更新冲突<br />
-banner_img: /img/about.jpg<br />
-banner_img_height: 80  # available: 0 - 100<br />
-avatar: /img/avatar.png # 头像<br />
-name: GiGi<br />
-introduce: 網頁設計師 # 支持 HTML<br />
-icons: # 更多图标可从 <a target="_blank" rel="noopener" href="https://fontawesome.com/v5.10.0/icons?d=gallery">https://fontawesome.com/v5.10.0/icons?d=gallery</a> 查找，并以 “图标名: url” 的格式添加在下方<br />
-“fab fa-github”: <a target="_blank" rel="noopener" href="https://github.com">https://github.com</a><br />
-“fab fa-twitter”: <a target="_blank" rel="noopener" href="https://twitter.com">https://twitter.com</a><br />
-“fab fa-weixin”:  # 微信图标，这个是特殊图标，点击不会跳转而是悬浮二维码，所以链接需要对应二维码图片地址<br />
-內容<br />
-關於我的「內容」則是在 fluid/pages/about.md 內編輯。（支援 Markdown 和 HTML）<br />
-Fluid 官方有說明，<a target="_blank" rel="noopener" href="http://about.md">about.md</a> 可以在主題配置中修改位置，建議修改到 fluid 目錄外，避免更新主題時遺失内容，例如：</p>
-<p>about:<br />
-md_path: …/…/source/_data/about.md  # 實際位置： blog/source/_data/about.md<br />
-筆者按照說明，到 blog/source 內新增一個 _data 資料夾，再將原本的 <a target="_blank" rel="noopener" href="http://about.md">about.md</a> 檔案移到 _data 內。</p>
-<p>頭像<br />
-最重要的大頭貼，筆者目前是默認頭像尚未更改，如要更換頭貼，僅需更改或覆蓋 fluid/source/img/avatar.png 即可。</p>
-<p>相關連結 icon<br />
-官方的 icon 圖示，均引用自目前做網站最多人使用的免費 icon 圖庫 Font Awesome，關於 Font Awesome 的詳細說明與使用技巧可以參考這篇文章：5 分鐘快速了解 FontAwesome 5。</p>
-<p>若想增加相關連結，只需按照原有規則複製一份新增在下方，再將圖示名稱（fa-github）更改為社群名稱或在 Font Awesome 搜尋到的圖示名稱，右方貼上網址即可，例如：</p>
-<p>“fab fa-github”: <a target="_blank" rel="noopener" href="https://github.com">https://github.com</a><br />
-“fab fa-twitter”: <a target="_blank" rel="noopener" href="https://twitter.com">https://twitter.com</a><br />
-“fab fa-facebook”: <a target="_blank" rel="noopener" href="https://www.facebook.com">https://www.facebook.com</a> # 新增一個 facebook 的連結</p>
-<p>在 Font Awesome 搜尋到的 facebook icon</p>
-<p>紅框部分為此圖示的名稱「fab fa-facebook」</p>
-<p>文章頁<br />
-文章在首頁的小圖<br />
-在每篇文章的開頭中配置 index_img 屬性。</p>
-<hr />
-<h2 id="title-文章標題tags-hexo-fluidindex_img-imgpicturejpgdate-2020-03-01-180000"><a class="markdownIt-Anchor" href="#title-文章標題tags-hexo-fluidindex_img-imgpicturejpgdate-2020-03-01-180000"></a> title: 文章標題<br />
-tags: [Hexo, Fluid]<br />
-index_img: /img/picture.jpg<br />
-date: 2020-03-01 18:00:00</h2>
-<p>以下是文章内容<br />
-圖片的存取位置和 banner 相同，/img/picture.jpg 對應的存取位置應放在 fluid/source/img/picture.jpg。<br />
-目錄可以自行定義，但必須放在 source 目錄底下，注意必須以 / 開頭。<br />
-（ / 為絕對路徑，關於絕對路徑和相對路徑的解釋，可以參考這篇文章：Web 基本觀念 - 相對路徑 和 絕對路徑）</p>
-<p>筆者是放在 blog/source/img 底下再新增一個 article 資料夾，在 article 內新增一個 banner 資料夾，把每一篇文章的 banner 都歸類進去，覺得這樣比較好整理圖片。</p>
-<p>index_img: /img/article/banner/banner-04.jpg # 代表第四篇文章的 banner<br />
-文章內大圖<br />
-在每篇文章的開頭中配置 banner_img 屬性，圖片的存取位置同上。<br />
-筆者的習慣是裡外一致（首頁小圖和文章內頁同一張），也可以指定不同圖片。</p>
-<hr />
-<h2 id="title-文章標題tags-hexo-fluidindex_img-imgpicturejpgbanner_img-imgpost_bannerjpgdate-2020-03-01-180000"><a class="markdownIt-Anchor" href="#title-文章標題tags-hexo-fluidindex_img-imgpicturejpgbanner_img-imgpost_bannerjpgdate-2020-03-01-180000"></a> title: 文章標題<br />
-tags: [Hexo, Fluid]<br />
-index_img: /img/picture.jpg<br />
-banner_img: /img/post_banner.jpg<br />
-date: 2020-03-01 18:00:00</h2>
-<p>以下是文章内容<br />
-文章內容圖片<br />
-在文章內插入以下程式碼，再指定圖片位置，存取位置同上。</p>
-<p><a href="/img/article-pic.jpg" class="gallery-item"><img src="/img/article-pic.jpg" srcset="/img/loading.gif" lazyload alt="" /></a><br />
-在文章內加入標籤 tags<br />
-在每篇文章的開頭加入 tags 屬性。<br />
-整個網站文章中有用到的標籤會被集中到標籤頁，字級越大表示與此標籤相關的文章數越多。</p>
-<hr />
-<h2 id="title-文章標題tags-hexo-fluid-請放入內標籤與標籤之間必須以半形逗號區隔date-2020-03-01-180000"><a class="markdownIt-Anchor" href="#title-文章標題tags-hexo-fluid-請放入內標籤與標籤之間必須以半形逗號區隔date-2020-03-01-180000"></a> title: 文章標題<br />
-tags: [Hexo, Fluid] # 請放入[]內，標籤與標籤之間必須以半形逗號區隔<br />
-date: 2020-03-01 18:00:00</h2>
-<p>以下是文章内容<br />
-在文章中加入分類<br />
-在每篇文章的開頭加入 categories 屬性，詳細可參閱 官方說明 Front-matter。</p>
-<p>在文章的最下方可以看到本篇文章的分類，每個分類按進去，會跳到同樣屬於此分類的文章統整頁。<br />
-網站的所有分類也會被集中到分類頁。</p>
-<hr />
-<p>title: 文章標題<br />
-tags: [Hexo, Fluid]<br />
-categories:</p>
-<ul>
-<li>[Blog]</li>
-<li>[主題]<br />
-date: 2020-03-01 18:00:00</li>
-</ul>
-<hr />
-<p>以下是文章内容<br />
-請注意 分類 具有順序性和層級，例如 Blog, themes 不等於 themes, Blog，標籤則沒有順序和層級。</p>
-<p>例如<br />
-categories:</p>
-<ul>
-<li>Blog</li>
-<li>themes<br />
-themes 會變成 Blog 的子分類，而不是同一層級的分類。（相當於 Blog 是 themes 的父親）<br />
-如果需要添加兩個同一層級的分類，可以嘗試以下寫法：</li>
-</ul>
-<p>categories:</p>
-<ul>
-<li>[Blog]</li>
-<li>[themes]<br />
-被[]包起來的部分就會是同一層級的分類。<br />
-若想要為文章添加多個分類，其中幾個擁有子分類，可以嘗試以下寫法：</li>
-</ul>
-<p>categories:</p>
-<ul>
-<li>[Blog, themes]</li>
-<li>[Blog, fluid]</li>
-<li>[Hexo]<br />
-此時這篇文章同時擁有三個分類：themes 和 fluid 都是父分類 Blog 的子分類，同時 Hexo 是一個沒有子分類的分類。</li>
-</ul>
-</div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+                <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig2-"><a class="markdownIt-Anchor" href="#-swig2-"></a> 0011.Hexo Fluid 背景全屏固定</h1>
+<div class="note note-success">
+            <p><a target="_blank" rel="noopener" href="https://qingshaner.com/Hexo%20Fluid%E4%B8%BB%E9%A2%98%E8%83%8C%E6%99%AF%E5%9B%BA%E5%AE%9A(ES6%E6%94%B9%E5%86%99%E7%89%88)%E4%B8%8E%E6%AF%9B%E7%8E%BB%E7%92%83%E5%BA%95%E9%A1%B5/">https://qingshaner.com/Hexo Fluid主题背景固定(ES6改写版)与毛玻璃底页/</a></p>
+          </div>
+<h2 id="根目录新建scripts文件夹新建injectorjs"><a class="markdownIt-Anchor" href="#根目录新建scripts文件夹新建injectorjs"></a> 根目录新建scripts文件夹,新建injector.js</h2>
+<figure class="highlight xquery"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs xquery">const &#123;<span class="hljs-built_in"> root</span>: siteRoot = <span class="hljs-string">&quot;/&quot;</span> &#125; = hexo.config;<br>hexo.extend.injector.register(<span class="hljs-string">&quot;body_begin&quot;</span>, `<span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;web_bg&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></span>`);<br>hexo.extend.injector.register(<span class="hljs-string">&quot;body_end&quot;</span>,`<span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;$&#123;siteRoot&#125;js/backgroundize.js&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span>`);<br></code></pre></td></tr></table></figure>
+<h2 id="sourcejs目录新建backgroundizejs"><a class="markdownIt-Anchor" href="#sourcejs目录新建backgroundizejs"></a> source/js目录新建backgroundize.js</h2>
+<figure class="highlight dart"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs dart"><span class="hljs-built_in">document</span><br>  .<span class="hljs-built_in">querySelector</span>(<span class="hljs-string">&#x27;#web_bg&#x27;</span>)<br>  .setAttribute(<span class="hljs-string">&#x27;style&#x27;</span>, `background-image: $&#123;<span class="hljs-built_in">document</span>.<span class="hljs-built_in">querySelector</span>(<span class="hljs-string">&#x27;.banner&#x27;</span>).style.background.split(<span class="hljs-string">&#x27; &#x27;</span>)[<span class="hljs-number">0</span>]&#125;;position: fixed;width: <span class="hljs-number">100</span>%;height: <span class="hljs-number">100</span>%;z-index: <span class="hljs-number">-1</span>;background-size: cover;`);<br><br><span class="hljs-built_in">document</span><br>  .<span class="hljs-built_in">querySelector</span>(<span class="hljs-string">&quot;#banner&quot;</span>)<br>  .setAttribute(<span class="hljs-string">&#x27;style&#x27;</span>, <span class="hljs-string">&#x27;background-image: url()&#x27;</span>)<br><br><span class="hljs-built_in">document</span><br>  .<span class="hljs-built_in">querySelector</span>(<span class="hljs-string">&quot;#banner .mask&quot;</span>)<br>  .setAttribute(<span class="hljs-string">&#x27;style&#x27;</span>, <span class="hljs-string">&#x27;background-color:rgba(0,0,0,0)&#x27;</span>)<br></code></pre></td></tr></table></figure></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
         };
@@ -591,8 +375,15 @@ themes 會變成 Blog 的子分類，而不是同一層級的分類。（相當�
     
       <span class="category-chain">
         
-  <a href="/categories/Hexo-Fluid/" class="category-chain-item">Hexo Fluid</a>
+  <a href="/categories/Hexo/" class="category-chain-item">Hexo</a>
   
+  
+    <span>></span>
+    
+  <a href="/categories/Hexo/Fluid/" class="category-chain-item">Fluid</a>
+  
+  
+
   
 
       </span>
@@ -606,7 +397,9 @@ themes 會變成 Blog 的子分類，而不是同一層級的分類。（相當�
     <div class="post-meta">
       <i class="iconfont icon-tags"></i>
       
-        <a href="/tags/Hexo-Fluid/" class="print-no-link">#Hexo Fluid</a>
+        <a href="/tags/Hexo/" class="print-no-link">#Hexo</a>
+      
+        <a href="/tags/Fluid/" class="print-no-link">#Fluid</a>
       
     </div>
   
@@ -618,7 +411,7 @@ themes 會變成 Blog 的子分類，而不是同一層級的分類。（相當�
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>0011.Hexo Fluid 主題使用指南</div>
+      <div>0011.Hexo Fluid 背景全屏固定</div>
       <div>https://100497.github.io/1025348666/</div>
     </div>
     <div class="license-meta">
@@ -645,14 +438,7 @@ themes 會變成 Blog 的子分類，而不是同一層級的分類。（相當�
           <div>许可协议</div>
           <div>
             
-              
-              
-                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
-                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
-                    <i class="iconfont icon-by"></i>
-                  </span>
-                </a>
-              
+              PIXIV
             
           </div>
         </div>
@@ -678,8 +464,8 @@ themes 會變成 Blog 的子分類，而不是同一層級的分類。（相當�
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2268941733/" title="0012.Hexo Fluid主题美化(1)">
-                        <span class="hidden-mobile">0012.Hexo Fluid主题美化(1)</span>
+                      <a href="/2268941733/" title="0012.Hexo Fluid添加网站运行时间">
+                        <span class="hidden-mobile">0012.Hexo Fluid添加网站运行时间</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>

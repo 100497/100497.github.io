@@ -854,10 +854,10 @@ i.iconfont {
   --post-link-color: #0366d6;
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
-  --line-color: #eaecef;
+  --line-color: #E53A40;
   --navbar-bg-color: #ffffff80;
-  --navbar-text-color: #ffbbd6;
-  --subtitle-color: #fff;
+  --navbar-text-color: #30A9DE;
+  --subtitle-color: #7200da;
   --scrollbar-color: #ffffff80;
   --scrollbar-hover-color: #ffffff80;
   --button-bg-color: transparent;
@@ -865,7 +865,7 @@ i.iconfont {
   --highlight-bg-color: #f6f8fa;
   --inlinecode-bg-color: rgba(175,184,193,0.2);
   --fold-title-color: #000000;
-  --fold-border-color: #eaecef;
+  --fold-border-color: #E53A40;
 }
 @media (prefers-color-scheme: dark) {
   :root {

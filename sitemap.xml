@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://100497.github.io/84560939/</loc>
+    <loc>https://100497.github.io/2658128355/</loc>
     
     <lastmod>2024-01-22</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://100497.github.io/2658128355/</loc>
+    <loc>https://100497.github.io/84560939/</loc>
     
     <lastmod>2024-01-22</lastmod>
     
@@ -300,6 +300,13 @@
   </url>
   
   <url>
+    <loc>https://100497.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2024-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://100497.github.io/tags/Windows/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,7 +321,7 @@
   </url>
   
   <url>
-    <loc>https://100497.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://100497.github.io/tags/%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -329,13 +336,6 @@
   
   <url>
     <loc>https://100497.github.io/tags/%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2024-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://100497.github.io/tags/%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -407,14 +407,14 @@
   </url>
   
   <url>
-    <loc>https://100497.github.io/categories/Galgame/</loc>
+    <loc>https://100497.github.io/categories/Chrome/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://100497.github.io/categories/Chrome/</loc>
+    <loc>https://100497.github.io/categories/Galgame/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

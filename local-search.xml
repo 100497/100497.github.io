@@ -4,11 +4,69 @@
   
   
   <entry>
+    <title>0029.TXT转EPUB工具——EasyPub</title>
+    <link href="/653075192/"/>
+    <url>/653075192/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig1-"><a class="markdownIt-Anchor" href="#-swig1-"></a> 0029.TXT转EPUB工具——EasyPub</h1><div class="note note-success">            <p>原文参考链接：<br />&lt;&gt;</p>          </div><h2 id=""><a class="markdownIt-Anchor" href="#"></a> </h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0029.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0029.jpg" alt="" /></a></p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs"><br></code></pre></td></tr></table></figure><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>EasyPub是一款专业的epub格式文件制作的软件工具，<br />软件支持生成epub文件、可以直接插入html的代码、定制css、gbk/unicode/utf8格式的文本输入等。<br />十分方便快捷，界面简约，布局直观清晰，操作简单，极易上手，是一款不可多得的利器。</p><p>生成完全规范的epub文件，过epubcheck无错</p><p>生成封面和可跳转的目录页</p><p>正则表达式分段。目录可以删除，改名和分级</p><p>直接插入HTML代码，支持插图</p><p>中文支持：外联字体，使用xml文件保存配置，可以自己修改添加内嵌字体，支持ttf subset，可以有效的减小文件体积</p><p>用户可以定制css</p><p>gbk/unicode/utf8格式的txt输入，不用预先转码。正确识别不带BOM的UTF8文本文件。</p><p>mobi格式输出，支持期刊格式以及同步阅读进度。</p><p>易用的界面</p><hr /><blockquote><blockquote><p>EasyPub 是 HIPAD 论坛的网友 lucida 开发的一款免费软件，在设计上延续了另外一款同类型软件 txt2epub 的思路。它可以把 TXT 文档转换成规范的 EPUB 或 MOBI 格式电子书。功能比较丰富，如添加封面、生成目录，还支持手动添加正则表达式、嵌入字体、定制 CSS 等。另外还对 gbk/unicode/utf8 格式的做了预先转码，正确识别不带 BOM 的 UTF8 文本文件。</p></blockquote></blockquote></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>电子书</tag>
+      
+      <tag>EasyPub</tag>
+      
+      <tag>epub</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0030.图片压缩工具——Imagine</title>
+    <link href="/814892978/"/>
+    <url>/814892978/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0030.图片压缩工具——Imagine</h1><div class="note note-success">            <p>链接：<br /><a href="https://github.com/meowtec/Imagine">https://github.com/meowtec/Imagine</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0030.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0030.jpg" alt="" /></a></p><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><ul><li>Imagine 是一个用于压缩 PNG 和 JPEG 的桌面应用程序。<br />Imagine 支持多种图片格式(JPEG, PNG, WebP)，支持格式转换，跨平台（macOS, Windows and Linux），支持批量处理图片，支持多种语言(English, 简体中文, Nederlands, Español, Français, Italiano, Deutsch)。</li><li>拖动进度条就可以调整压缩的百分比，还可以看到图片压缩后的大小和图片原始大小。<br />多格式支持(PNG JPEG WEBP)<br />多语言支持(其实作者就是个中国人~)<br />好看的界面<br />简洁的操作界面(只有添加保存设置)<br />压缩速度过关(1M以下的速度还算不错)<br />支持批量压缩</li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图像处理</tag>
+      
+      <tag>图片压缩</tag>
+      
+      <tag>Imagine</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0027.剪贴板工具——Clibor</title>
     <link href="/2041330695/"/>
     <url>/2041330695/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0027.剪贴板工具——Clibor</h1><div class="note note-success">            <p>链接：<br /><a href="https://chigusa-web.com/clibor-zh-cn/">https://chigusa-web.com/clibor-zh-cn/</a></p>          </div><h2 id="软件界面"><a class="markdownIt-Anchor" href="#软件界面"></a> 软件界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0027.webp" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0027.webp" alt="" /></a></p><hr /><h2 id=""><a class="markdownIt-Anchor" href="#"></a> </h2><ul><li><p>你可以使用Clibor来存储剪贴板历史（文本）。</p></li><li><p>你还可以注册经常使用的短语，并随时将其发送到剪贴板。Clibor有很多设置，可高度定制。</p></li><li><p>最新版支持中文</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0027.剪贴板工具——Clibor</h1><div class="note note-success">            <p>链接：<br /><a href="https://chigusa-web.com/clibor-zh-cn/">https://chigusa-web.com/clibor-zh-cn/</a></p>          </div><h2 id="软件界面"><a class="markdownIt-Anchor" href="#软件界面"></a> 软件界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0027.webp" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0027.webp" alt="" /></a></p><hr /><h2 id="特点"><a class="markdownIt-Anchor" href="#特点"></a> 特点</h2><ul><li><p>你可以使用Clibor来存储剪贴板历史（文本）。</p></li><li><p>你还可以注册经常使用的短语，并随时将其发送到剪贴板。Clibor有很多设置，可高度定制。</p></li><li><p>最新版支持中文</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
     
     <categories>
@@ -21,6 +79,33 @@
     <tags>
       
       <tag>剪贴板</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0028.相似图片查找工具——新雨相似图片查找助手</title>
+    <link href="/3739757843/"/>
+    <url>/3739757843/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0028.相似图片查找工具——新雨相似图片查找助手</h1><div class="note note-success">            <p>链接：<br /><a href="https://www.newrain.cn/app/info/1">https://www.newrain.cn/app/info/1</a></p>          </div><h2 id="软件界面"><a class="markdownIt-Anchor" href="#软件界面"></a> 软件界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0028.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0028.jpg" alt="" /></a></p><hr /><h2 id="特点"><a class="markdownIt-Anchor" href="#特点"></a> 特点</h2><ul><li><p>新雨相似图片查找助手能快速准确地清理电脑中相似或重复的照片，同时操作非常简洁，支持在线升级。</p></li><li><p>提供更加便利的操作方式<br />快速的查找速度<br />对常见的三种算法进行改进，产生更准确的查找结果<br />灵活的参数设置，用户可以根据自己的环境调整</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>相似图片查找</tag>
+      
+      <tag>新雨相似图片查找助手</tag>
       
     </tags>
     
@@ -89,7 +174,7 @@
     <link href="/19154037/"/>
     <url>/19154037/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0024.图片压缩软件——Caesium Image Compressor</h1><div class="note note-success">            <p>软件链接：<br /><a href="https://github.com/Lymphatus/caesium-image-compressor">https://github.com/Lymphatus/caesium-image-compressor</a></p>          </div><hr /><h2 id="软件界面"><a class="markdownIt-Anchor" href="#软件界面"></a> 软件界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0024.jpg" title="软件主界面" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0024.jpg" alt="软件主界面" /></a></p><hr /><h2 id="软件特点"><a class="markdownIt-Anchor" href="#软件特点"></a> 软件特点</h2><ul><li><p>具有多种压缩选项，使您可以根据需要自定义压缩参数，如图像质量和文件大小。</p></li><li><p>支持批量处理，可以同时压缩多个图像，提高工作效率。</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0024.图片压缩软件——Caesium Image Compressor</h1><div class="note note-success">            <p>软件链接：<br /><a href="https://github.com/Lymphatus/caesium-image-compressor">https://github.com/Lymphatus/caesium-image-compressor</a></p>          </div><hr /><h2 id="软件界面"><a class="markdownIt-Anchor" href="#软件界面"></a> 软件界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0024.jpg" title="软件主界面" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0024.jpg" alt="软件主界面" /></a></p><hr /><h2 id="软件特点"><a class="markdownIt-Anchor" href="#软件特点"></a> 软件特点</h2><ul><li><p>具有多种压缩选项，使您可以根据需要自定义压缩参数，如图像质量和文件大小。</p></li><li><p>支持批量处理，可以同时压缩多个图像，提高工作效率。</p></li><li><p>支持文件夹压缩</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
     
     <categories>

@@ -4,6 +4,89 @@
   
   
   <entry>
+    <title>0033.文件目录工具——Snap2HTML</title>
+    <link href="/214887015/"/>
+    <url>/214887015/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0033.文件目录工具——Snap2HTML</h1><div class="note note-success">            <p>链接：<br /><a href="https://www.rlvision.com/snap2html/about.php">https://www.rlvision.com/snap2html/about.php</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0033.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0033.png" alt="" /></a><br /><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0033-1.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0033-1.png" alt="" /></a></p><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>生成硬盘文件索引<br />生成文件、目录索引；<br />生成文件、目录列表；<br />生成树形目录<br />可以导出html格式（美观）<br />支持命令行调用（计划任务自动执行）<br />生成树形文件索引的工具：Snap2HTML</p><hr /><ul><li>文件夹快照就如同网页快照一样的作用，允许用户迅速对自己电脑中所存储的各类文件完成初步的预览，<br />使用Snap2HTML更可以有效科学的管理本地文件夹内容，需要提前把指定文件夹路径导入，<br />并且自定义标题以及相关联的文件，使得后续管理本地存储的时候可迅速锁定需要用到的文件，提升工作效率。</li></ul><hr /><p>1、Snap2HTML可以建立文件夹快照</p><p>2、可以将您磁盘上的文件夹转换为html的格式保存</p><p>3、可以通过html格式直接查看您的多个文件夹</p><p>4、让您在网页上查看磁盘上保存的项目</p><p>5、对于添加磁盘资源，建立文件结构是非常有用的</p><hr /><h2 id="原版不支持中文汉化版自行网络搜索"><a class="markdownIt-Anchor" href="#原版不支持中文汉化版自行网络搜索"></a> 原版不支持中文，汉化版自行网络搜索</h2></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>文件目录</tag>
+      
+      <tag>Snap2HTML</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0032.系统美化工具——TranslucentFlyouts</title>
+    <link href="/3032224215/"/>
+    <url>/3032224215/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0032.系统美化工具——TranslucentFlyouts</h1><div class="note note-success">            <p>链接：<br /><a href="https://github.com/ALTaleX531/TranslucentFlyouts/releases/tag/v3.0.0-insider-preview">https://github.com/ALTaleX531/TranslucentFlyouts/releases/tag/v3.0.0-insider-preview</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0032.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0032.jpg" alt="" /></a></p><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>TranslucentFlyouts<br />一个在Windows10/11让大部分Win32弹出菜单半透明/全透明的应用</p><hr /><h2 id="使用"><a class="markdownIt-Anchor" href="#使用"></a> 使用</h2><ul><li><p>安装<br />从Release下载已经编译和打包好的程序文件<br />解压到一个安全的地方比如&quot;C:\Program Files&quot;<br />以管理员身份运行&quot;install.cmd&quot;<br />注意:<br />第一次使用时或系统大版本更新后，TranslucentFlyouts需要从微软服务器下载符号文件，否则一些功能将不可用！</p></li><li><p>卸载<br />以管理员身份运行&quot;uninstall.cmd&quot;<br />手动删除剩下的文件（建议先注销一次）</p></li><li><p>配置</p></li></ul><p>感谢外国友人 @Satanarious 的付出，你可以在这里找到这一个既完美又易于使用的GUI（只是目前还不支持中文）。<br /><a href="https://github.com/Satanarious/TranslucentFlyoutsConfig/releases/tag/v1.3.2">https://github.com/Satanarious/TranslucentFlyoutsConfig/releases/tag/v1.3.2</a></p><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>系统美化</tag>
+      
+      <tag>TranslucentFlyouts</tag>
+      
+      <tag>右键菜单美化</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0031.系统美化工具——枫の美化工具箱</title>
+    <link href="/828463418/"/>
+    <url>/828463418/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0031.系统美化工具——枫の美化工具箱</h1><div class="note note-success">            <p>链接：<br /><a href="https://winmoes.com/tools/12948.html">https://winmoes.com/tools/12948.html</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0031.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0031.jpg" alt="" /></a></p><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><ul><li>主要功能：<br />本工具箱致力于简单稳定的美化效果 带来类主题样式的功能<br />本工具和以往主题的技术区别在于 本工具箱不需要破解系统文件、安装各种美化补丁就可实现类似主题般的美化效果<br />一切操作均为图形化、可视化</li></ul><p>目前拥有的功能：<br />[主页面]     自定义文件资源管理器窗口字体、局部颜色模式 Light、Dark (实验性 局部Dark模式存在小的视觉bug)<br />[背景设置] 自定义文件资源管理器、开始菜单、系统设置的背景图片<br />[颜色设置] 自定义文件资源管理器配色(标题、组、页眉、详细信息、硬盘进度条)、圆角化硬盘进度条<br />[图标设置] 自定义桌面、文件资源管理器图标组图标<br />[窗口设置] 自定义文件资源管理器窗口背景效果 半透明、Blur、Acrylic、Mica效果 win11圆角类型、开始菜单、系统设置Acrylic背景效果<br />[控件样式] 自定义全局窗口标题栏按钮样式、macOS样式按钮、文件资源管理器Tab标签页、工具栏、地址栏配色、自绘圆角滚动条<br />[预设列表] 保存、导入、分享你的配置文件<br />[插件列表] 安装插件增强和扩展工具箱的功能</p><p>* 兼容性：<br />● 系统版本支持：<br />仅支持64位Windows操作系统<br />Windows 11 全版本(除了预览版部分功能可能无法使用) 仅支持x64架构 不支持ARM ARM的x64指令集模拟 我不保证能用<br />Windows 10 1703以上版本(暂未完全测试,win10 1703(包括)以上理论上都支持)<br />不支持Windows 10以下版本</p><p>● 主题兼容性：<br />可与第三方主题兼容(即传统的 需要破解系统文件的主题)<br />可随意更新系统版本 更新系统无需卸载本工具(使用传统的主题不能更新系统)<br />可以 但不建议和传统主题一起使用 建议二选一</p><p>兼容第三方主题美化软件 如 StartIsBack、StartAllBack、Start10(11)、OldNewExplorer<br />不推荐ExplorerBgTool一起使用 因为它是本工具独立扩展版本</p><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>枫の美化工具箱</tag>
+      
+      <tag>系统美化</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0029.TXT转EPUB工具——EasyPub</title>
     <link href="/653075192/"/>
     <url>/653075192/</url>

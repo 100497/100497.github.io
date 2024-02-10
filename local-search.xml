@@ -4,6 +4,124 @@
   
   
   <entry>
+    <title>0037.网站推荐——软件下载</title>
+    <link href="/1437461461/"/>
+    <url>/1437461461/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="果核剥壳"><a class="markdownIt-Anchor" href="#果核剥壳"></a> 果核剥壳</h1><div class="note note-success">            <p><a href="https://www.ghxi.com/">https://www.ghxi.com/</a></p>          </div><hr /><h1 id="大眼仔旭"><a class="markdownIt-Anchor" href="#大眼仔旭"></a> 大眼仔旭</h1><div class="note note-success">            <p><a href="http://www.dayanzai.me/">http://www.dayanzai.me/</a></p>          </div><hr /><h1 id="殁漂遥"><a class="markdownIt-Anchor" href="#殁漂遥"></a> 殁漂遥</h1><div class="note note-success">            <p><a href="https://www.mpyit.com/">https://www.mpyit.com/</a></p>          </div><hr /><h1 id="小众软件"><a class="markdownIt-Anchor" href="#小众软件"></a> 小众软件</h1><div class="note note-success">            <p><a href="https://meta.appinn.net/">https://meta.appinn.net/</a></p>          </div><hr /><h1 id="蓝点网"><a class="markdownIt-Anchor" href="#蓝点网"></a> 蓝点网</h1><div class="note note-success">            <p><a href="https://www.landiannews.com/">https://www.landiannews.com/</a></p>          </div><hr /><h1 id="423down"><a class="markdownIt-Anchor" href="#423down"></a> 423Down</h1><div class="note note-success">            <p><a href="https://www.423down.com/">https://www.423down.com/</a></p>          </div><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>网站推荐</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>果核剥壳</tag>
+      
+      <tag>软件下载</tag>
+      
+      <tag>大眼仔旭</tag>
+      
+      <tag>殁漂遥</tag>
+      
+      <tag>小众软件</tag>
+      
+      <tag>蓝点网</tag>
+      
+      <tag>423Down</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0036.批量重命名工具——ReNamer</title>
+    <link href="/135359881/"/>
+    <url>/135359881/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0036.批量重命名工具——ReNamer</h1><div class="note note-success">            <p>原文参考链接：<br /><a href="https://www.den4b.com/products/renamer">https://www.den4b.com/products/renamer</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0036.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0036.png" alt="" /></a></p><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>Renamer是一款用于批量重命名文件和文件夹的实用工具软件。它提供了简单直观的界面和丰富的重命名选项，可以帮助用户快速、方便地对大量文件进行重命名操作。</p><p>以下是Renamer软件的主要特点和功能：</p><p>批量重命名：Renamer支持批量重命名文件和文件夹，用户可以选择多个目标文件，然后应用相同的重命名规则。</p><p>多种重命名选项：软件提供了多种重命名选项，包括添加前缀、后缀、替换文字、修改大小写、添加序列号、修剪空格等。用户可以根据需要选择适当的选项，并进行自定义设置。</p><p>实时预览：Renamer提供实时预览功能，用户在应用重命名规则之前可以预览文件名的变化。这样可以确保所做的修改符合预期，避免错误操作。</p><p>自定义规则和模式：软件允许用户创建自定义的重命名规则和模式。用户可以使用特定的标记和变量来构建文件名模板，以满足个人需求。</p><p>快速操作和撤销：Renamer提供快速操作和撤销功能。用户可以通过拖放文件或文件夹到软件界面中，快速选择重命名选项，并随时撤销操作以恢复原始文件名。</p><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>批量重命名</tag>
+      
+      <tag>ReNamer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0035.屏幕亮度调节工具——Twinkle Tray</title>
+    <link href="/973677776/"/>
+    <url>/973677776/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0035.屏幕亮度调节工具——Twinkle Tray</h1><div class="note note-success">            <p>链接：<br /><a href="https://github.com/xanderfrangos/twinkle-tray">https://github.com/xanderfrangos/twinkle-tray</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0035.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0035.jpg" alt="" /></a></p><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>Twinkle Tray – 支持多显示器的屏幕亮度调节工具</p><p>Twinkle Tray 是一款支持多显示器的屏幕亮度调节工具，让你可以在一块屏幕上调节所有的显示器亮度，也支持定时调节、快捷键调节。</p><p>Twinkle Tray 有中文界面，可以很方便的调整各种参数，比如亮度更新速度重命名显示器、调整显示器顺序等等。</p><p>其中的定时调整和快捷键都可以设置为针对所有显示器，或者单独显示器。</p><p>定时调整可以根据一天中的不同时间段来设置显示器亮度，快捷键就更方便了，可以让用户一键调整全部显示器亮度或者某一块显示器亮度。</p><p>平时想要调整亮度，只需要点击系统托盘里的 Twinkle Tray 图标，然后就能根据需要调整某一台显示器的亮度了。</p><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Twinkle Tray</tag>
+      
+      <tag>亮度调节</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0034.系统美化工具——DWMBlurGlass</title>
+    <link href="/2090577227/"/>
+    <url>/2090577227/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0034.系统美化工具——DWMBlurGlass</h1><div class="note note-success">            <p>链接：<br /><a href="https://github.com/Maplespe/DWMBlurGlass">https://github.com/Maplespe/DWMBlurGlass</a></p>          </div><h2 id="软件界面"><a class="markdownIt-Anchor" href="#软件界面"></a> 软件界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0034-1.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0034-1.png" alt="" /></a></p><hr /><h2 id="效果图"><a class="markdownIt-Anchor" href="#效果图"></a> 效果图</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0034.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0034.jpg" alt="" /></a></p><hr /><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p><strong><a href="https://github.com/Maplespe/DWMBlurGlass/blob/master/README_ZH.md">https://github.com/Maplespe/DWMBlurGlass/blob/master/README_ZH.md</a></strong><br />给全局系统标题栏添加自定义效果，支持win10和win11<br />可自定义全局或仅标题栏的模糊强度<br />可自定义标题栏混合颜色<br />可自定义标题栏文本颜色<br />可添加Aero反射和视差效果<br />可还原win7样式标题栏按钮高度<br />支持为使用旧版win7API DwmEnableBlurBehindWindow 的程序启用模糊效果<br />支持 Blur, Aero, Acrylic, Mica(仅win11) 效果<br />可单独设置 亮/暗 颜色模式颜色，跟随系统自动切换<br />提供 CustomBlur、AccentBlur、SystemBackdrop 模糊方法可选<br />第三方主题支持</p><hr /><h2 id="兼容性"><a class="markdownIt-Anchor" href="#兼容性"></a> 兼容性</h2><p>最低支持 Windows 10 2004 最高支持到 Windows 11 最新版(部分模糊方法不支持预览版)</p><p>可以与第三方主题一起使用进一步定制DWM.</p><p>我们不会修改应用程序本身的渲染逻辑，与MicaForEveryone原理完全不同，因此也最大程度与第三方程序兼容.</p><p>我们通过逆向分析dwm并编写自定义模糊类带来令人惊叹的视觉效果，但如果你选择&quot;SystemBackdrop&quot;模糊方法，则使用公开的系统接口，效果和MicaForEveryone一样</p><p>不推荐与MicaForEveryone一起使用，我们不保证其兼容性</p><p>与ExplorerBlurMica兼容，一起使用效果更佳.</p><p>与TranslucentFlyouts兼容. (需要注意的是即使本项目与TF兼容，但EBMv2与TFv2并不完全兼容)</p><hr /><h2 id="如何使用"><a class="markdownIt-Anchor" href="#如何使用"></a> 如何使用</h2><h3 id="安装"><a class="markdownIt-Anchor" href="#安装"></a> 安装</h3><p>从 Release 页面下载压缩包.<br />解压到一个位置 例如 “C:\Program Files”.<br />运行 DWMBlurGlass.exe GUI 程序 并点击安装.</p><h3 id="卸载"><a class="markdownIt-Anchor" href="#卸载"></a> 卸载</h3><p>运行 DWMBlurGlass.exe GUI 程序 并点击卸载.<br />手动删除相关剩余文件.</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>系统美化</tag>
+      
+      <tag>DWMBlurGlass</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0033.文件目录工具——Snap2HTML</title>
     <link href="/214887015/"/>
     <url>/214887015/</url>
@@ -365,11 +483,11 @@
   
   
   <entry>
-    <title>0020.オトメ世界の歩き方 预定</title>
+    <title>0020.Galgame——オトメ世界の歩き方</title>
     <link href="/2658128355/"/>
     <url>/2658128355/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0020.オトメ世界の歩き方 预定</h1><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0020.webp" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0020.webp" alt="" /></a></p><div class="note note-success">            <p><a href="https://orthrossoft.jp/">https://orthrossoft.jp/</a></p><p><a href="https://2dfan.com/subjects/17006">https://2dfan.com/subjects/17006</a></p>          </div><p>品牌：Orthros</p><p>发售日期：2024-12-31</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0020.Galgame——オトメ世界の歩き方</h1><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0020.webp" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0020.webp" alt="" /></a></p><div class="note note-success">            <p><a href="https://orthrossoft.jp/">https://orthrossoft.jp/</a></p><p><a href="https://2dfan.com/subjects/17006">https://2dfan.com/subjects/17006</a></p>          </div><p>品牌：Orthros</p><p>发售日期：2024-12-31</p><p>【世界觀】<br />西元21XX年，激進的女權主義者為勝利歡呼。</p><p>由於半個世紀前實施「男女隔離法」的影響，<br />日本已經變成一個完全由女性主導的社會。<br />為了保護女性一切優先的權利，男性不分年齡都要接受徵兵，<br />被派往長期與機器人進行的戰爭。</p><p>——戰爭就讓那些野蠻的男人們去就好啦！</p><p>噁心的男性被社會排除，<br />在法律之下性侵害和對女性的歧視都不復存在。<br />這個世間正是屬於女性的、由女性主導的、為女性而存在的社會，<br />是少女們的理想鄉！</p><p>衰退的人類們……女性們在瀕臨崩潰的廢墟旁，<br />在這個只有女性的城市裡，今天依舊過著平靜的生活。</p><p>【故事劇情】<br />新東京市——依據『男女隔離法』劃定為女性特區的國家首都。<br />這是屬於女性的、由女性主導的、女性專用的，女權主義者夢寐以求的理想世界。</p><p>在這樣的城市中，主人公『片桐ユイ』進入了一所名為『阿卡西亞女子學園』的軍事訓練學校。</p><p>……然而，她的兩腿之間實際上卻長著『那個東西』。<br />由於某種原因，她——他被藏匿在邊境的村莊，謊報戶籍。<br />不幸的是，管理社會的AI人工智慧『MOTHER』看中他的能力，徵招他到軍事學校。</p><p>如果暴露出真實身份，將被視為痴漢而處以極刑……！？</p><p>這是一個對男性非常嚴苛的世界。<br />就連他的同期生、腦袋不太靈光的少女『姫乃アカリ』，也可以面帶笑容大聲說出：</p><p>「我的夢想是殺死所有男人！」</p><p>ユイ能夠保守住秘密，設法存活下去嗎！？</p><p>CAST<br />片桐ユイ　CV：歩サラ<br />姫乃アカリ　CV：松岡侑里<br />藤堂リン　CV：蒼乃むすび<br />片桐ヤエカ　CV：小波すず<br />守屋ミク　CV：逢真井もこ</p><p>STAFF<br />劇本：NYAON<br />原畫：mignon<br />發售日：2024年夏<br />官網：<a href="https://orthrossoft.jp/">https://orthrossoft.jp/</a></p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
     
     <categories>

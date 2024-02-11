@@ -4,6 +4,122 @@
   
   
   <entry>
+    <title>0044.系统监控工具——TrafficMonitor</title>
+    <link href="/580106228/"/>
+    <url>/580106228/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0044.系统监控工具——TrafficMonitor</h1><h2 id="主页"><a class="markdownIt-Anchor" href="#主页"></a> 主页</h2><div class="note note-success">            <p><strong><a href="https://github.com/zhongyang219/TrafficMonitor">https://github.com/zhongyang219/TrafficMonitor</a></strong></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0044.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0044.png" alt="" /></a></p><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，<br />可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，<br />支持更换皮肤、历史流量统计等功能。</p><h2 id="主要特性"><a class="markdownIt-Anchor" href="#主要特性"></a> 主要特性</h2><p>显示当前实现网络传输速率、CPU和内存占用率<br />如果电脑有多个网卡，支持自动和手动选择网络连接<br />查看网络详细信息<br />支持嵌入到任务栏显示<br />支持更换皮肤和自定义皮肤<br />历史流量统计<br />硬件信息监控<br />插件系统</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网速监控</tag>
+      
+      <tag>TrafficMonitor</tag>
+      
+      <tag>温度监控</tag>
+      
+      <tag>利用率监控</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0043.网络代理工具——Clash for Windows</title>
+    <link href="/1552739225/"/>
+    <url>/1552739225/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0043.网络代理工具——Clash for Windows</h1><h2 id="主页"><a class="markdownIt-Anchor" href="#主页"></a> 主页</h2><div class="note note-success">            <ul><li>官方已删库：</li></ul><p><strong><a href="https://github.com/Z-Siqi/Clash-for-Windows_Chinese-Attached?tab=readme-ov-file">https://github.com/Z-Siqi/Clash-for-Windows_Chinese-Attached?tab=readme-ov-file</a></strong></p><ul><li>临时下载：</li></ul><p><strong><a href="https://github.com/Z-Siqi/Clash-for-Windows_Chinese">https://github.com/Z-Siqi/Clash-for-Windows_Chinese</a></strong></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0043.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0043.png" alt="" /></a></p><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><ul><li><a href="https://clashforwindows.org/">https://clashforwindows.org/</a><br />Clash 是一个开源的网络代理工具，支持多种代理协议，并具有强大的规则分流功能。<br />Clash for Windows 是 Clash 的 Windows 客户端，提供了图形化界面，使得用户可以更方便地管理和使用 Clash。</li></ul><p>Clash for Windows 是目前在 Windows 上最好用的图形化分支。<br />通过 Clash API 来配置和控制 Clash 核心程序，降低了 Clash 的使用成本，小白也能轻松入门使用。</p><p>Clash for Windows是代理工具Clash在Windows系统的唯一图形客户端，<br />同时还支持Windows、Linux、macOS三大系统，功能强大且支持多种代理协议，<br />如Shadowsocks(SS)、ShadowsocksR(SSR)、Socks、Snell、V2Ray、Trojan等代理协议。</p><p>Clash for Windows是一个使用Go语言编写，基于规则的跨平台代理软件核心程序，<br />目前支持的平台有Windows、Linux、MacOS三大平台。</p><h2 id=""><a class="markdownIt-Anchor" href="#"></a> </h2></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网络代理</tag>
+      
+      <tag>Clash for Windows</tag>
+      
+      <tag>Clash</tag>
+      
+      <tag>机场</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0042.图片上传工具——PicGo</title>
+    <link href="/3888646261/"/>
+    <url>/3888646261/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0042.图片上传工具——PicGo</h1><h2 id="主页"><a class="markdownIt-Anchor" href="#主页"></a> 主页</h2><div class="note note-success">            <p><strong><a href="https://github.com/Molunerfinn/PicGo">https://github.com/Molunerfinn/PicGo</a></strong></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0042.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0042.png" alt="" /></a></p><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>PicGo: 一个用于快速上传图片并获取图片 URL 链接的工具</p><p>PicGo 本体支持如下图床：</p><p>七牛图床 v1.0<br />腾讯云 COS v4\v5 版本 v1.1 &amp; v1.5.0<br />又拍云 v1.2.0<br />GitHub v1.5.0<br /><a href="http://SM.MS">SM.MS</a> V2 v2.3.0-beta.0<br />阿里云 OSS v1.6.0<br />Imgur v1.6.0<br />本体不再增加默认的图床支持。你可以自行开发第三方图床插件。详见 PicGo-Core。</p><h2 id="特色功能"><a class="markdownIt-Anchor" href="#特色功能"></a> 特色功能</h2><p>支持拖拽图片上传<br />支持快捷键上传剪贴板里第一张图片<br />Windows 和 macOS 支持右键图片文件通过菜单上传 (v2.1.0+)<br />上传图片后自动复制链接到剪贴板<br />支持自定义复制到剪贴板的链接格式<br />支持修改快捷键，默认快速上传快捷键：command+shift+p（macOS）| control+shift+p（Windows\Linux)<br />支持插件系统，已有插件支持 Gitee、青云等第三方图床<br />更多第三方插件以及使用了 PicGo 底层的应用可以在 Awesome-PicGo 找到。欢迎贡献！<br />支持通过发送 HTTP 请求调用 PicGo 上传（v2.2.0+)</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PicGo</tag>
+      
+      <tag>图片上传</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0041.视频播放工具——Potplayer</title>
+    <link href="/2360256083/"/>
+    <url>/2360256083/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0041.视频播放工具——Potplayer</h1><h2 id="主页"><a class="markdownIt-Anchor" href="#主页"></a> 主页</h2><div class="note note-success">            <p>链接：<a href="http://potplayer.tv/?lang=zh_CN">http://potplayer.tv/?lang=zh_CN</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0041.webp" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0041.webp" alt="" /></a></p><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>Potplayer完成了KMP 无法实现的DXVA 硬件解码以及多线程解码功能。Potplayer使您能更流畅的观看高清影片。<br />在相对小巧的体积下Potplayer 实现了支持绝大多数视频格式的功能。<br />同时Potplayer抛弃了以往KMP制作时追求大而全的模式而改以精简的方式。<br />Real 仅提供最基本的播放支持。使Potplayer 成为真正的便携播放器！</p><h2 id="特点"><a class="markdownIt-Anchor" href="#特点"></a> 特点</h2><p>无广告，无推送，无捆绑插件</p><p>potplayer解码能力强大，无需安装额外的解码包，最高12倍速的速度播放，一般播放器人声会变音，它不会，保留原生</p><p>占用内耗低，在自己的笔记本用过迅雷播放器、KMplayer、暴风影音、超级解霸、百度影音、Mplayer等内存占用都比Potplayer高</p><p>定制性强，可以随意调节亮度饱和度颜色，皮肤可以网上任意下载</p><p>进度条缩略图好评</p><p>截图，屏幕录制，GIF动图制作样样都有</p><p>多媒体连接，在线翻译，比例任意设置和切换，声音处理，图像处理等更高级的玩法</p><p>更简单直接的网络播放（需要靠谱的直播源）</p><p>1、PotPlayer支持32位和64位系统。</p><p>2、PotPlayer内置硬件加速解码，支持MPEG1/2(IDCT/MoComp)，WMV2(MoComp)，WMV3(IDCT/MoComp)，VC-1(IDCT/MoComp/VLD)，H.264/AVC1(VLD)。</p><p>3、PotPlayer内置 E_AC3 音频解码。</p><p>4、网络流媒体播放支持。</p><p>5、播放H264、VC1、MPEG I II TS PS 等编码，只要使用设定内建硬解都可顺利硬解，不用其它解码器。</p><p>6、PotPlayer可以较完整的支持 ASSSSA 字幕，不会发生 KMP 中字幕被截断的问题，但依然支持不完全。</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PotPlayer</tag>
+      
+      <tag>视频播放</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0040.文件搜索工具——Everything</title>
     <link href="/2045425202/"/>
     <url>/2045425202/</url>

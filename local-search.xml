@@ -4,6 +4,64 @@
   
   
   <entry>
+    <title>0046.Hexo博客删除评论</title>
+    <link href="/40665387/"/>
+    <url>/40665387/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0046.Hexo博客删除评论</h1><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>适用于使用Valine模块为博客添加评论功能，基于LeanCloud开发的快速、简洁且高效的无后端评论系统。</p><h2 id="预览图"><a class="markdownIt-Anchor" href="#预览图"></a> 预览图</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0046.png" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0046.png" alt="" /></a></p><h2 id="登录"><a class="markdownIt-Anchor" href="#登录"></a> 登录</h2><h3 id="进入leancloud国际版"><a class="markdownIt-Anchor" href="#进入leancloud国际版"></a> 进入LeanCloud国际版</h3><p><a href="https://console.leancloud.app/apps">https://console.leancloud.app/apps</a></p><h2 id="选择板块"><a class="markdownIt-Anchor" href="#选择板块"></a> 选择板块</h2><h3 id="1在所有应用中选择使用评论的应用名"><a class="markdownIt-Anchor" href="#1在所有应用中选择使用评论的应用名"></a> 1.在<code>所有应用</code>中选择使用评论的应用名</h3><h3 id="2在网页左侧选择数据存储结构化数据comment"><a class="markdownIt-Anchor" href="#2在网页左侧选择数据存储结构化数据comment"></a> 2.在网页左侧选择<code>数据存储</code>——<code>结构化数据</code>——<code>Comment</code></h3><h3 id="3勾选要删除评论点击删除"><a class="markdownIt-Anchor" href="#3勾选要删除评论点击删除"></a> 3.勾选要删除评论，点击删除</h3><h3 id="4删除失败删除是勾选使用masterkey"><a class="markdownIt-Anchor" href="#4删除失败删除是勾选使用masterkey"></a> 4.删除失败，删除是勾选<code>使用masterKey</code></h3></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Hexo</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
+      
+      <tag>LeanCloud</tag>
+      
+      <tag>Valine</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0045.音乐播放工具——MusicPlayer2</title>
+    <link href="/3976699229/"/>
+    <url>/3976699229/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0045.音乐播放工具——MusicPlayer2</h1><h2 id="主页"><a class="markdownIt-Anchor" href="#主页"></a> 主页</h2><div class="note note-success">            <p><strong><a href="https://github.com/zhongyang219/MusicPlayer2?tab=readme-ov-file">https://github.com/zhongyang219/MusicPlayer2?tab=readme-ov-file</a></strong></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0045.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0045.jpg" alt="" /></a></p><h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2><p>MusicPlayer2是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。<br />支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、<br />专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。<br />播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。</p><h2 id="主要特性"><a class="markdownIt-Anchor" href="#主要特性"></a> 主要特性</h2><p>歌词显示<br />迷你模式<br />歌词卡拉OK样式显示<br />任务栏搜索框显示歌词<br />桌面歌词显示<br />歌词在线下载<br />歌词编辑<br />歌曲标签识别和编辑<br />频谱分析<br />专辑封面<br />自动匹配下载歌词和专辑封面<br />音效设置（均衡器和混响）<br />任务栏缩略图按钮<br />主题颜色<br />支持cue分轨<br />背景高斯模糊<br />格式转换<br />媒体库功能</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>音乐播放</tag>
+      
+      <tag>MusicPlayer2</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0044.系统监控工具——TrafficMonitor</title>
     <link href="/580106228/"/>
     <url>/580106228/</url>
@@ -512,33 +570,6 @@
   
   
   <entry>
-    <title>0025.浏览器插件——SearchBar</title>
-    <link href="/3550664352/"/>
-    <url>/3550664352/</url>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0025.浏览器插件——SearchBar</h1><div class="note note-success">            <p>链接：<br /><a href="https://chromewebstore.google.com/detail/searchbar/fjefgkhmchopegjeicnblodnidbammed">https://chromewebstore.google.com/detail/searchbar/fjefgkhmchopegjeicnblodnidbammed</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-2.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-2.jpg" alt="" /></a></p><hr /><h2 id="介绍"><a class="markdownIt-Anchor" href="#介绍"></a> 介绍</h2><ul><li><p>SearchBar 是一款简单方便的浏览器搜索栏添加 Chrome 拓展程序，<br />它可以在你的 Chrome 中添加一个多功能搜索栏，让你可以更方便搜索需要的内容，还可以各种方式对其进行自定义。</p></li><li><p>自定义搜索引擎，支持网页选定关键词搜索<br /><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-1.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-1.jpg" alt="" /></a></p></li><li><p>自定义热键</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
-    
-    
-    <categories>
-      
-      <category>浏览器插件</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Chrome插件</tag>
-      
-      <tag>SearchBar</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>0026.浏览器插件——图片助手(ImageAssistant)</title>
     <link href="/312119300/"/>
     <url>/312119300/</url>
@@ -560,6 +591,33 @@
       <tag>图片助手</tag>
       
       <tag>ImageAssistant</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0025.浏览器插件——SearchBar</title>
+    <link href="/3550664352/"/>
+    <url>/3550664352/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0025.浏览器插件——SearchBar</h1><div class="note note-success">            <p>链接：<br /><a href="https://chromewebstore.google.com/detail/searchbar/fjefgkhmchopegjeicnblodnidbammed">https://chromewebstore.google.com/detail/searchbar/fjefgkhmchopegjeicnblodnidbammed</a></p>          </div><h2 id="界面"><a class="markdownIt-Anchor" href="#界面"></a> 界面</h2><p><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-2.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-2.jpg" alt="" /></a></p><hr /><h2 id="介绍"><a class="markdownIt-Anchor" href="#介绍"></a> 介绍</h2><ul><li><p>SearchBar 是一款简单方便的浏览器搜索栏添加 Chrome 拓展程序，<br />它可以在你的 Chrome 中添加一个多功能搜索栏，让你可以更方便搜索需要的内容，还可以各种方式对其进行自定义。</p></li><li><p>自定义搜索引擎，支持网页选定关键词搜索<br /><a href="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-1.jpg" class="gallery-item"><img src="https://raw.githubusercontent.com/100497/Image_Blog/main/BLOG/Article/0025-1.jpg" alt="" /></a></p></li><li><p>自定义热键</p></li></ul><hr /></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>浏览器插件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Chrome插件</tag>
+      
+      <tag>SearchBar</tag>
       
     </tags>
     

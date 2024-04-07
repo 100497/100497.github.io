@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>0056.Windows 11 关闭屏幕显示</title>
+    <link href="/2321525149/"/>
+    <url>/2321525149/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig1-"><a class="markdownIt-Anchor" href="#-swig1-"></a> 0056.Windows 11 关闭屏幕显示</h1><p>创建cmd或者bat脚本文件：</p><figure class="highlight excel"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs excel">powershell (Add-<span class="hljs-built_in">Type</span> &#x27;[DllImport(\&quot;user32.dll\&quot;)]^public static extern <span class="hljs-built_in">int</span> SendMessage(<span class="hljs-built_in">int</span> hWnd, <span class="hljs-built_in">int</span> hMsg, <span class="hljs-built_in">int</span> wParam, <span class="hljs-built_in">int</span> lParam);&#x27; -Name a -Pas)<span class="hljs-symbol">:</span><span class="hljs-symbol">:Se</span>ndMessage(-<span class="hljs-number">1</span>,<span class="hljs-number">0</span>x0112,<span class="hljs-number">0</span>xF170,<span class="hljs-number">2</span>)<br><br></code></pre></td></tr></table></figure></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>CMD</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0055.小米13刷入面具ROOT</title>
     <link href="/3897481875/"/>
     <url>/3897481875/</url>

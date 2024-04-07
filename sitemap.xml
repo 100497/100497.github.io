@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://100497.github.io/2687295126/</loc>
+    
+    <lastmod>2024-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://100497.github.io/2321525149/</loc>
     
     <lastmod>2024-04-07</lastmod>
@@ -1200,6 +1209,13 @@
   
   <url>
     <loc>https://100497.github.io/tags/CMD/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://100497.github.io/tags/%E4%B8%80%E5%9D%97%E5%89%AA%E8%B4%B4%E6%9D%BF/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

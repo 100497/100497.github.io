@@ -4,6 +4,58 @@
   
   
   <entry>
+    <title>0067_node.js报错punycode的解决方法</title>
+    <link href="/107264933/"/>
+    <url>/107264933/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="deprecationwarning-the-punycode-module-is-deprecated-please-use-a-userland-alternative-instead"><a class="markdownIt-Anchor" href="#deprecationwarning-the-punycode-module-is-deprecated-please-use-a-userland-alternative-instead"></a> DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead</h2><h2 id="summary"><a class="markdownIt-Anchor" href="#summary"></a> Summary</h2><p>在 <strong>nodejs v21.0.0</strong> 以上会出现如下提示</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs auto">(node:83047) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.<br>(Use `node --trace-deprecation ...` to show where the warning was created)<br></code></pre></td></tr></table></figure><h2 id="解决方法"><a class="markdownIt-Anchor" href="#解决方法"></a> 解决方法</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs auto">npm install punycode --save<br></code></pre></td></tr></table></figure><p>进入 <strong>node_modules</strong></p><p>找到 <strong>tr46</strong> 文件夹中的 <strong>index.js</strong></p><p>找到下面的代码</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs auto">const punycode = require(&#x27;punycode&#x27;);<br></code></pre></td></tr></table></figure><p>在punycode后面加上/</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs auto">const punycode = require(&#x27;punycode/&#x27;);<br></code></pre></td></tr></table></figure></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>nodejs</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>punycode</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>0066_Win10应用图标变白块&amp;修复桌面白图标</title>
+    <link href="/2396406855/"/>
+    <url>/2396406855/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="-swig0-"><a class="markdownIt-Anchor" href="#-swig0-"></a> 0066_Win10应用图标变白块&修复桌面白图标</h1><p>当Windows桌面图标变为纯白色时，可以按照以下步骤解决：</p><ol><li>按Win+R打开运行，输入%localappdata%并删除Iconcache.db文件；</li><li>在任务管理器中重启Windows资源管理器；</li><li>如果图标仍未恢复，可能是快捷方式失效，考虑重新安装软件。此方法能有效修复图标显示异常问题。</li></ol><p>1.按 Win + R 组合键，打开运行，并输入<code>%localappdata%  </code>,点击确定后。</p><p>2.立即进入一个文件夹内，然后在打开的文件夹中，找到名称为<code>Iconcache.db</code>,右键删除即可</p><p>若无<code>Iconcache.db</code>一般是未开启显示隐藏项目的选项，在文件夹左上角，点击“查看”按钮，在“显示/隐藏”中框选“隐藏项目”，<br />文件夹中即会出现Iconcache.db，然后删除Iconcache.db才能进行后续操作）。</p><p>3.打开任务管理器（Ctrl + Shift + Esc可快速打开任务管理器），在里面找到“Windows 资源管理器”，点击鼠标，在菜单栏里选择重新启动。</p><p>4.稍后桌面图标恢复正常（若还未恢复正常，基本是快捷链接失效，点击该快捷方式，系统会提示删除，这边建议重新安装该软件）。</p></div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Windows</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>修复图标</tag>
+      
+      <tag>图标</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0065_油猴脚本_eh磁力链助手</title>
     <link href="/3413675388/"/>
     <url>/3413675388/</url>
